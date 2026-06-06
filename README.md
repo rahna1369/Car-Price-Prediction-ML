@@ -1,5 +1,5 @@
 # Car-Price-Prediction-ML
-Machine  Learning car price analysis
+
 # 🚗 Car Price Prediction & Market Analysis
 
 An end-to-end Machine Learning project to analyze competitive pricing dynamics in the United States automotive market. This project evaluates multiple regression algorithms to provide an optimized simulation tool for management to understand price variations, manipulate vehicle designs, and target specific price brackets effectively.
